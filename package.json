@@ -1,0 +1,11 @@
+{
+  "name": "goodread",
+  "version": "1.0.0",
+  "description": "This app is used to manage my goodreads.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Mohanraj",
+  "license": "MIT"
+}
